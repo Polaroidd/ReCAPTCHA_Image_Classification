@@ -1,0 +1,100 @@
+query1.png,Hydrant,Bicycle,Hydrant,Palm,Hydrant,Bridge,Bus,Bus,Chimney,Bus
+query10.png,Palm,Traffic Light,Palm,Palm,Palm,Motorcycle,Palm,Palm,Palm,Palm
+query100.png,Bicycle,Car,Hydrant,Bus,Hydrant,Hydrant,Bus,Bicycle,Car,Bridge
+query11.png,Hydrant,Chimney,Palm,Palm,Bicycle,Hydrant,Hydrant,Bridge,Bicycle,Bus
+query12.png,Chimney,Chimney,Chimney,Palm,Chimney,Chimney,Chimney,Chimney,Chimney,Palm
+query13.png,Bridge,Car,Crosswalk,Car,Bridge,Crosswalk,Crosswalk,Bridge,Bridge,Crosswalk
+query14.png,Bus,Bus,Car,Car,Bus,Traffic Light,Car,Bus,Bicycle,Bus
+query15.png,Traffic Light,Palm,Chimney,Crosswalk,Palm,Palm,Chimney,Crosswalk,Chimney,Palm
+query16.png,Crosswalk,Motorcycle,Crosswalk,Car,Motorcycle,Crosswalk,Bicycle,Crosswalk,Bicycle,Crosswalk
+query17.png,Bus,Bus,Bus,Hydrant,Bridge,Bus,Bus,Bus,Hydrant,Bus
+query18.png,Palm,Palm,Palm,Traffic Light,Chimney,Palm,Crosswalk,Chimney,Chimney,Crosswalk
+query19.png,Car,Bridge,Palm,Chimney,Bicycle,Crosswalk,Crosswalk,Bicycle,Chimney,Car
+query2.png,Crosswalk,Crosswalk,Crosswalk,Hydrant,Chimney,Crosswalk,Crosswalk,Crosswalk,Crosswalk,Crosswalk
+query20.png,Car,Bus,Car,Car,Bicycle,Bicycle,Motorcycle,Bus,Bicycle,Car
+query21.png,Crosswalk,Crosswalk,Bus,Crosswalk,Bicycle,Bicycle,Crosswalk,Bicycle,Crosswalk,Bicycle
+query22.png,Bus,Hydrant,Hydrant,Hydrant,Hydrant,Hydrant,Hydrant,Hydrant,Bicycle,Bicycle
+query23.png,Bicycle,Bridge,Crosswalk,Bicycle,Crosswalk,Hydrant,Crosswalk,Crosswalk,Hydrant,Crosswalk
+query24.png,Chimney,Palm,Chimney,Chimney,Chimney,Traffic Light,Palm,Car,Crosswalk,Chimney
+query25.png,Hydrant,Chimney,Hydrant,Car,Hydrant,Hydrant,Palm,Bicycle,Hydrant,Hydrant
+query26.png,Bus,Bicycle,Hydrant,Car,Bicycle,Motorcycle,Car,Hydrant,Hydrant,Crosswalk
+query27.png,Palm,Chimney,Palm,Palm,Chimney,Palm,Palm,Palm,Bridge,Bridge
+query28.png,Hydrant,Car,Hydrant,Motorcycle,Crosswalk,Bridge,Car,Car,Bus,Bus
+query29.png,Bicycle,Hydrant,Hydrant,Bicycle,Bicycle,Hydrant,Chimney,Hydrant,Bridge,Hydrant
+query3.png,Hydrant,Bridge,Crosswalk,Crosswalk,Crosswalk,Car,Car,Bridge,Crosswalk,Bridge
+query30.png,Palm,Chimney,Palm,Bicycle,Chimney,Car,Bicycle,Palm,Motorcycle,Bridge
+query31.png,Chimney,Chimney,Hydrant,Crosswalk,Crosswalk,Chimney,Hydrant,Chimney,Bicycle,Chimney
+query32.png,Chimney,Chimney,Chimney,Palm,Bus,Palm,Hydrant,Palm,Traffic Light,Chimney
+query33.png,Chimney,Chimney,Hydrant,Chimney,Chimney,Bridge,Crosswalk,Hydrant,Chimney,Palm
+query34.png,Chimney,Chimney,Crosswalk,Chimney,Hydrant,Palm,Chimney,Palm,Chimney,Chimney
+query35.png,Bicycle,Car,Bus,Car,Car,Bus,Bus,Motorcycle,Bus,Motorcycle
+query36.png,Chimney,Palm,Traffic Light,Palm,Traffic Light,Motorcycle,Traffic Light,Traffic Light,Palm,Bridge
+query37.png,Chimney,Palm,Traffic Light,Bridge,Chimney,Motorcycle,Bus,Bicycle,Hydrant,Motorcycle
+query38.png,Bridge,Bridge,Car,Crosswalk,Bridge,Crosswalk,Palm,Palm,Palm,Bridge
+query39.png,Bridge,Bus,Bicycle,Palm,Chimney,Bus,Chimney,Chimney,Crosswalk,Traffic Light
+query4.png,Hydrant,Bicycle,Car,Car,Bicycle,Car,Crosswalk,Hydrant,Bus,Motorcycle
+query40.png,Car,Car,Crosswalk,Bicycle,Bicycle,Bicycle,Bridge,Car,Car,Crosswalk
+query41.png,Car,Crosswalk,Car,Traffic Light,Car,Motorcycle,Hydrant,Motorcycle,Hydrant,Traffic Light
+query42.png,Chimney,Chimney,Chimney,Chimney,Chimney,Chimney,Chimney,Chimney,Chimney,Palm
+query43.png,Chimney,Chimney,Chimney,Chimney,Bicycle,Chimney,Chimney,Chimney,Chimney,Chimney
+query44.png,Chimney,Traffic Light,Palm,Traffic Light,Traffic Light,Hydrant,Motorcycle,Palm,Hydrant,Palm
+query45.png,Bicycle,Bicycle,Bicycle,Bicycle,Hydrant,Bus,Hydrant,Bicycle,Hydrant,Crosswalk
+query46.png,Chimney,Chimney,Chimney,Chimney,Palm,Palm,Chimney,Traffic Light,Palm,Chimney
+query47.png,Chimney,Chimney,Chimney,Chimney,Chimney,Chimney,Hydrant,Bus,Hydrant,Hydrant
+query48.png,Bicycle,Hydrant,Bicycle,Bicycle,Hydrant,Bus,Bicycle,Hydrant,Motorcycle,Hydrant
+query49.png,Bridge,Bus,Bus,Bicycle,Bridge,Bicycle,Car,Bus,Bus,Bus
+query5.png,Hydrant,Motorcycle,Bicycle,Motorcycle,Motorcycle,Car,Hydrant,Motorcycle,Bicycle,Motorcycle
+query50.png,Bicycle,Hydrant,Hydrant,Bicycle,Hydrant,Bicycle,Hydrant,Bicycle,Bicycle,Bus
+query51.png,Crosswalk,Hydrant,Crosswalk,Bridge,Bridge,Crosswalk,Hydrant,Bicycle,Crosswalk,Crosswalk
+query52.png,Bicycle,Bus,Hydrant,Palm,Traffic Light,Car,Bus,Hydrant,Hydrant,Bus
+query53.png,Motorcycle,Hydrant,Hydrant,Bus,Hydrant,Bicycle,Hydrant,Bicycle,Crosswalk,Hydrant
+query54.png,Bridge,Crosswalk,Crosswalk,Bridge,Chimney,Car,Crosswalk,Motorcycle,Car,Crosswalk
+query55.png,Palm,Palm,Motorcycle,Motorcycle,Palm,Hydrant,Bicycle,Chimney,Palm,Bicycle
+query56.png,Palm,Chimney,Chimney,Bus,Bicycle,Bus,Chimney,Palm,Chimney,Hydrant
+query57.png,Hydrant,Bridge,Bicycle,Bridge,Bicycle,Car,Bridge,Bridge,Bridge,Bridge
+query58.png,Hydrant,Hydrant,Bicycle,Bicycle,Chimney,Bicycle,Hydrant,Crosswalk,Hydrant,Hydrant
+query59.png,Car,Bicycle,Crosswalk,Bridge,Bridge,Bicycle,Car,Crosswalk,Bridge,Crosswalk
+query6.png,Hydrant,Car,Car,Bicycle,Palm,Hydrant,Hydrant,Traffic Light,Bus,Hydrant
+query60.png,Traffic Light,Motorcycle,Traffic Light,Traffic Light,Palm,Motorcycle,Traffic Light,Motorcycle,Motorcycle,Car
+query61.png,Bicycle,Bus,Bicycle,Bicycle,Crosswalk,Car,Car,Crosswalk,Hydrant,Bus
+query62.png,Bus,Bicycle,Hydrant,Bus,Bus,Motorcycle,Car,Bus,Bus,Hydrant
+query63.png,Chimney,Bicycle,Palm,Bicycle,Palm,Chimney,Palm,Palm,Traffic Light,Chimney
+query64.png,Crosswalk,Bus,Chimney,Crosswalk,Crosswalk,Bridge,Traffic Light,Car,Chimney,Chimney
+query65.png,Crosswalk,Crosswalk,Crosswalk,Chimney,Palm,Bicycle,Bridge,Crosswalk,Chimney,Chimney
+query66.png,Bus,Bus,Bus,Hydrant,Hydrant,Bus,Hydrant,Bicycle,Bus,Car
+query67.png,Crosswalk,Crosswalk,Bridge,Crosswalk,Crosswalk,Crosswalk,Crosswalk,Crosswalk,Crosswalk,Crosswalk
+query68.png,Bridge,Hydrant,Bicycle,Crosswalk,Crosswalk,Traffic Light,Palm,Bicycle,Hydrant,Bicycle
+query69.png,Palm,Palm,Palm,Palm,Palm,Chimney,Palm,Palm,Palm,Palm
+query7.png,Bus,Car,Car,Bus,Bus,Bus,Bus,Palm,Bus,Motorcycle
+query70.png,Motorcycle,Crosswalk,Hydrant,Crosswalk,Crosswalk,Bicycle,Motorcycle,Motorcycle,Crosswalk,Chimney
+query71.png,Bus,Crosswalk,Bicycle,Crosswalk,Crosswalk,Crosswalk,Bicycle,Palm,Chimney,Bridge
+query72.png,Hydrant,Hydrant,Bus,Hydrant,Bicycle,Chimney,Chimney,Bicycle,Hydrant,Bicycle
+query73.png,Hydrant,Hydrant,Chimney,Motorcycle,Hydrant,Hydrant,Hydrant,Car,Hydrant,Bridge
+query74.png,Hydrant,Car,Motorcycle,Motorcycle,Bus,Hydrant,Motorcycle,Motorcycle,Bus,Car
+query75.png,Bus,Car,Bicycle,Car,Hydrant,Car,Car,Car,Crosswalk,Car
+query76.png,Bus,Chimney,Bridge,Palm,Crosswalk,Chimney,Bus,Bicycle,Chimney,Hydrant
+query77.png,Crosswalk,Bus,Bicycle,Motorcycle,Hydrant,Crosswalk,Hydrant,Crosswalk,Hydrant,Bicycle
+query78.png,Bridge,Bicycle,Crosswalk,Crosswalk,Crosswalk,Bus,Bridge,Bicycle,Crosswalk,Car
+query79.png,Hydrant,Hydrant,Car,Chimney,Bicycle,Hydrant,Crosswalk,Car,Bus,Hydrant
+query8.png,Crosswalk,Crosswalk,Bicycle,Crosswalk,Bus,Bicycle,Motorcycle,Hydrant,Crosswalk,Crosswalk
+query80.png,Crosswalk,Car,Crosswalk,Car,Bicycle,Bicycle,Car,Crosswalk,Bus,Crosswalk
+query81.png,Motorcycle,Hydrant,Bicycle,Hydrant,Motorcycle,Hydrant,Hydrant,Crosswalk,Bicycle,Crosswalk
+query82.png,Hydrant,Hydrant,Car,Hydrant,Bus,Bicycle,Motorcycle,Bus,Bus,Bus
+query83.png,Crosswalk,Bicycle,Hydrant,Bridge,Crosswalk,Crosswalk,Crosswalk,Crosswalk,Crosswalk,Bicycle
+query84.png,Chimney,Chimney,Palm,Palm,Chimney,Palm,Chimney,Palm,Chimney,Palm
+query85.png,Chimney,Bridge,Bridge,Chimney,Bicycle,Bus,Bicycle,Crosswalk,Crosswalk,Crosswalk
+query86.png,Chimney,Bridge,Chimney,Chimney,Chimney,Chimney,Hydrant,Chimney,Chimney,Bus
+query87.png,Chimney,Chimney,Palm,Chimney,Palm,Hydrant,Hydrant,Bus,Chimney,Bicycle
+query88.png,Bicycle,Hydrant,Hydrant,Hydrant,Bicycle,Hydrant,Crosswalk,Hydrant,Bicycle,Hydrant
+query89.png,Bus,Bus,Bus,Motorcycle,Hydrant,Hydrant,Car,Bicycle,Bus,Palm
+query9.png,Chimney,Palm,Bus,Chimney,Chimney,Chimney,Chimney,Bicycle,Palm,Chimney
+query90.png,Crosswalk,Crosswalk,Bicycle,Motorcycle,Crosswalk,Bicycle,Crosswalk,Motorcycle,Motorcycle,Bicycle
+query91.png,Bicycle,Bicycle,Hydrant,Crosswalk,Bicycle,Bicycle,Hydrant,Bicycle,Bicycle,Crosswalk
+query92.png,Palm,Palm,Hydrant,Hydrant,Palm,Hydrant,Bicycle,Hydrant,Bicycle,Bicycle
+query93.png,Traffic Light,Chimney,Palm,Traffic Light,Chimney,Palm,Chimney,Chimney,Palm,Palm
+query94.png,Bus,Bicycle,Car,Car,Car,Car,Motorcycle,Bus,Car,Bus
+query95.png,Bicycle,Traffic Light,Palm,Chimney,Chimney,Hydrant,Hydrant,Bicycle,Chimney,Crosswalk
+query96.png,Chimney,Palm,Palm,Bridge,Palm,Chimney,Palm,Palm,Palm,Chimney
+query97.png,Bus,Bus,Palm,Chimney,Bicycle,Palm,Chimney,Chimney,Palm,Chimney
+query98.png,Hydrant,Car,Hydrant,Hydrant,Car,Bus,Car,Car,Bicycle,Chimney
+query99.png,Motorcycle,Motorcycle,Bicycle,Bicycle,Hydrant,Hydrant,Hydrant,Hydrant,Traffic Light,Palm
